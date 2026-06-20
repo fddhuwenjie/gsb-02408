@@ -1,0 +1,6 @@
+{
+  "userId": ${userId},
+  "productId": "${productId}",
+  "amount": ${amount},
+  "token": "${token}"
+}
