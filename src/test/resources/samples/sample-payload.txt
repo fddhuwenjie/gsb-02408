@@ -1,0 +1,2 @@
+hello-from-gsb-apitest-framework
+this file will be base64 encoded into the upload request body.
