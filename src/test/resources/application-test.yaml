@@ -1,0 +1,9 @@
+baseUrl: http://localhost:18080
+connectTimeout: 5000
+readTimeout: 10000
+globalHeaders:
+  Accept: application/json
+  User-Agent: GSB-API-Test/1.0
+globalVariables:
+  appId: GSB-TEST-001
+  version: v1

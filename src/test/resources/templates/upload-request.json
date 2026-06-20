@@ -1,0 +1,6 @@
+{
+  "fileName": "document.txt",
+  "fileType": "text/plain",
+  "fileData": "${fileToBase64.fileToBase64("testdata/sample.txt")}",
+  "operator": "${username}"
+}
