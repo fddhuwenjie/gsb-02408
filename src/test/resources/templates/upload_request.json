@@ -1,0 +1,5 @@
+{
+  "name": "${fileName}",
+  "owner": "${userId}",
+  "content": "${fileToBase64(samples/sample-payload.txt)}"
+}
