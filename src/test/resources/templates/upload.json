@@ -1,0 +1,1 @@
+{"fileName":"${fileName}","fileType":"${fileType}","fileContent":"${fileToBase64('files/sample.txt')}","description":"${description}"}

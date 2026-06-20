@@ -1,0 +1,3 @@
+Hello, this is a test file for Base64 encoding.
+Line 2: API Testing Framework
+Line 3: fileToBase64() function works!
