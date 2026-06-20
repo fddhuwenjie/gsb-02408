@@ -1,0 +1,2 @@
+Hello GSB API Test Framework!
+This is a sample file for Base64 encoding test.
